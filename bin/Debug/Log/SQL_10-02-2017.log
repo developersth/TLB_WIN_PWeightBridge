@@ -1,0 +1,8 @@
+10/02/2017 11:41:00 <ExeSQL Error> begin tas.P_UPDATE_CARDREADER_CONNECT(0,0);end;
+10/02/2017 11:41:00 <ExeSQL Error> Oracle.DataAccess.Client.OracleException ORA-06550: line 1, column 7:
+PLS-00306: wrong number or types of arguments in call to 'P_UPDATE_CARDREADER_CONNECT'
+ORA-06550: line 1, column 7:
+PL/SQL: Statement ignored    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at PWeightBridge.COracle.ExeSQL(String pStrSQL, String& pSQL_Execution_Error) in D:\My Code\TLB Upgrading\PWeight\PWeightBridge_29-10-2016\classs\COracle.vb:line 287

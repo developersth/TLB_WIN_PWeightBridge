@@ -1,0 +1,84 @@
+<CR-301><17/10/2016 14:07:09>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><17/10/2016 14:07:09>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><17/10/2016 14:07:09>>Open comport[COM22]
+<CR-301><17/10/2016 14:11:27>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><17/10/2016 14:11:27>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><17/10/2016 14:11:27>>Open comport[COM22]
+<CR-301><17/10/2016 14:11:27>>Open comport[COM22 : 9600,N,8,1] successfull.
+<CR-301><17/10/2016 14:11:34>>CR-301connect = True
+<CR-301><17/10/2016 14:12:16>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><17/10/2016 14:12:16>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><17/10/2016 14:12:16>>Open comport[COM22]
+<CR-301><17/10/2016 14:12:16>>Open comport[COM22 : 9600,N,8,1] successfull.
+<CR-301><17/10/2016 14:12:30>>CR-301connect = True
+<CR-301><17/10/2016 14:13:12>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><17/10/2016 14:13:12>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><17/10/2016 14:13:12>>Open comport[COM22]
+<CR-301><17/10/2016 14:13:12>>Open comport[COM22 : 9600,N,8,1] successfull.
+<CR-301><17/10/2016 14:14:15>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><17/10/2016 14:14:15>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><17/10/2016 14:14:15>>Open comport[COM22]
+<CR-301><17/10/2016 14:14:15>>Open comport[COM22 : 9600,N,8,1] successfull.
+<CR-301><17/10/2016 14:14:16>>CR-301connect = True
+<CR-301><17/10/2016 14:14:49>>Touch Card code = 8692
+<CR-301><17/10/2016 14:14:49>>[ชั่งเข้า] บัตร [8692][99-9999/] : (510176078)[60Kg]ไม่มีกระบวนการชั่งน้ำหนัก
+<CR-301><17/10/2016 14:14:49>>บัตร[8692]ไม่มีกระบวนการชั่งน้ำหนัก
+<CR-301><17/10/2016 14:14:57>>Touch Card code = 8692
+<CR-301><17/10/2016 14:14:57>>[ชั่งเข้า] บัตร [8692][99-9999/] : (510176078)[60Kg]ไม่มีกระบวนการชั่งน้ำหนัก
+<CR-301><17/10/2016 14:14:57>>บัตร[8692]ไม่มีกระบวนการชั่งน้ำหนัก
+<CR-301><17/10/2016 14:15:05>>Touch Card code = 8692
+<CR-301><17/10/2016 14:15:05>>[ชั่งเข้า] บัตร [8692][99-9999/] : (510176078)[60Kg]ไม่มีกระบวนการชั่งน้ำหนัก
+<CR-301><17/10/2016 14:15:05>>บัตร[8692]ไม่มีกระบวนการชั่งน้ำหนัก
+<CR-301><17/10/2016 14:15:11>>Touch Card code = 8692
+<CR-301><17/10/2016 14:15:11>>[ชั่งเข้า] บัตร [8692][99-9999/] : (510176078)[60Kg]ไม่มีกระบวนการชั่งน้ำหนัก
+<CR-301><17/10/2016 14:15:12>>บัตร[8692]ไม่มีกระบวนการชั่งน้ำหนัก
+<CR-301><17/10/2016 14:15:21>>Touch Card code = 8692
+<CR-301><17/10/2016 14:15:21>>[ชั่งเข้า] บัตร [8692][99-9999/] : (510176078)[60Kg]ไม่มีกระบวนการชั่งน้ำหนัก
+<CR-301><17/10/2016 14:15:21>>บัตร[8692]ไม่มีกระบวนการชั่งน้ำหนัก
+<CR-301><17/10/2016 14:15:33>>Touch Card code = 8692
+<CR-301><17/10/2016 14:15:33>>[ชั่งเข้า] บัตร [8692][99-9999/] : (510176078)[60Kg]ไม่มีกระบวนการชั่งน้ำหนัก
+<CR-301><17/10/2016 14:15:33>>บัตร[8692]ไม่มีกระบวนการชั่งน้ำหนัก
+<CR-301><17/10/2016 14:16:17>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><17/10/2016 14:16:17>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><17/10/2016 14:16:17>>Open comport[COM22]
+<CR-301><17/10/2016 14:16:18>>Open comport[COM22 : 9600,N,8,1] successfull.
+<CR-301><17/10/2016 14:16:18>>CR-301connect = True
+<CR-301><17/10/2016 14:18:24>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><17/10/2016 14:18:24>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><17/10/2016 14:18:24>>Open comport[COM22]
+<CR-301><17/10/2016 14:18:24>>Open comport[COM22 : 9600,N,8,1] successfull.
+<CR-301><17/10/2016 14:18:25>>CR-301connect = True
+<CR-301><17/10/2016 14:25:12>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><17/10/2016 14:25:12>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><17/10/2016 14:25:12>>Open comport[COM22]
+<CR-301><17/10/2016 14:25:12>>Open comport[COM22 : 9600,N,8,1] successfull.
+<CR-301><17/10/2016 14:25:12>>CR-301connect = True
+<CR-301><17/10/2016 14:28:18>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><17/10/2016 14:28:18>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><17/10/2016 14:28:18>>Open comport[COM22]
+<CR-301><17/10/2016 14:28:19>>Open comport[COM22 : 9600,N,8,1] successfull.
+<CR-301><17/10/2016 14:28:19>>CR-301connect = True
+<CR-301><17/10/2016 14:29:42>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><17/10/2016 14:29:42>>Open comport[COM22]
+<CR-301><17/10/2016 14:29:42>>Open comport[COM22 : 9600,N,8,1] successfull.
+<CR-301><17/10/2016 14:29:43>>CR-301connect = True
+<CR-301><17/10/2016 14:30:32>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><17/10/2016 14:30:32>>Open comport[COM22]
+<CR-301><17/10/2016 14:30:32>>Open comport[COM22 : 9600,N,8,1] successfull.
+<CR-301><17/10/2016 14:30:32>>CR-301connect = True
+<CR-301><17/10/2016 14:30:44>>CR-301connect = True
+<CR-301><17/10/2016 14:31:47>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><17/10/2016 14:31:47>>Open comport[COM22]
+<CR-301><17/10/2016 14:31:47>>Open comport[COM22 : 9600,N,8,1] successfull.
+<CR-301><17/10/2016 14:31:47>>CR-301connect = True
+<CR-301><17/10/2016 14:32:28>>Touch Card code = 8692
+<CR-301><17/10/2016 14:32:28>>[ชั่งเข้า] บัตร [8692][99-9999/] : (510176078)[60Kg]ไม่มีกระบวนการชั่งน้ำหนัก
+<CR-301><17/10/2016 14:32:28>>บัตร[8692]ไม่มีกระบวนการชั่งน้ำหนัก
+<CR-301><17/10/2016 14:40:17>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><17/10/2016 14:40:17>>Open comport[COM22]
+<CR-301><17/10/2016 14:40:17>>Open comport[COM22 : 9600,N,8,1] successfull.
+<CR-301><17/10/2016 14:40:17>>CR-301connect = True
+<CR-301><17/10/2016 14:41:07>>Touch Card code = 8692
+<CR-301><17/10/2016 14:41:07>>[ชั่งเข้า] บัตร [8692][99-9999/] : (510176078)[60Kg]ไม่มีกระบวนการชั่งน้ำหนัก
+<CR-301><17/10/2016 14:41:07>>บัตร[8692]ไม่มีกระบวนการชั่งน้ำหนัก
+<CR-301><17/10/2016 14:42:29>><---------Stop process--------->

@@ -1,0 +1,7 @@
+<WB-01><24/03/2016 16:44:04>>Initial Weight Bridge[7100301]WB-01 successful.
+<WB-01><24/03/2016 16:44:04>>Weight Bridge enable=False
+<WB-01><24/03/2016 16:44:04>>Open comport[COM6]
+<WB-01><24/03/2016 16:44:04>>Initial Card Reader[7100301]Address=1: COM6 9600,N,8,1 successful.
+<WB-01><24/03/2016 16:44:04>>Card Reader enable=False
+<WB-01><24/03/2016 16:44:04>>Open comport[COM6]
+<WB-01><24/03/2016 16:44:04>>Open comport[COM6 : 9600,N,8,1] successfull.

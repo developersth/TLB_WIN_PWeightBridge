@@ -1,0 +1,76 @@
+12/07/2016 16:34:14 <ExeSQL Error> begin steqi.UPDATE_WB_VALUE(7100301,-1);end;
+12/07/2016 16:34:14 <ExeSQL Error> Oracle.DataAccess.Client.OracleException ORA-03113: end-of-file on communication channel
+Process ID: 5860
+Session ID: 201 Serial number: 122    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at PWeightBridge.COracle.ExeSQL(String pStrSQL, String& pSQL_Execution_Error) in E:\งาน\G15-026_TAM\LLTLB\โปรแกรมเครื่องชั่ง\PWeightBridge\classs\COracle.vb:line 288
+12/07/2016 16:34:17 <Open Dynaset Error> select w.weight_value,w.weight_status from steqi.view_weight_value w where w.weight_bridge_id=7100301
+12/07/2016 16:34:17 <Open Dynaset Error> Oracle.DataAccess.Client.OracleException ORA-03114: not connected to ORACLE    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteReader(Boolean requery, Boolean fillRequest, CommandBehavior behavior)
+   at Oracle.DataAccess.Client.OracleDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   at PWeightBridge.COracle.OpenDys(String pStrSQL, String pTableName, DataSet& pDataSet, String& SQL_Execution_Error) in E:\งาน\G15-026_TAM\LLTLB\โปรแกรมเครื่องชั่ง\PWeightBridge\classs\COracle.vb:line 228
+12/07/2016 16:34:21 <ExeSQL Error> begin steqi.UPDATE_WB_VALUE(7100301,-1);end;
+12/07/2016 16:34:21 <ExeSQL Error> Oracle.DataAccess.Client.OracleException ORA-03114: not connected to ORACLE    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at PWeightBridge.COracle.ExeSQL(String pStrSQL, String& pSQL_Execution_Error) in E:\งาน\G15-026_TAM\LLTLB\โปรแกรมเครื่องชั่ง\PWeightBridge\classs\COracle.vb:line 288
+12/07/2016 16:35:29 <ExeSQL Error> begin steqi.UPDATE_WB_VALUE(7100301,-1);end;
+12/07/2016 16:35:29 <ExeSQL Error> Oracle.DataAccess.Client.OracleException ORA-03113: end-of-file on communication channel
+Process ID: 1572
+Session ID: 11 Serial number: 74    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at PWeightBridge.COracle.ExeSQL(String pStrSQL, String& pSQL_Execution_Error) in E:\งาน\G15-026_TAM\LLTLB\โปรแกรมเครื่องชั่ง\PWeightBridge\classs\COracle.vb:line 288
+12/07/2016 16:35:35 <Open Dynaset Error> select w.weight_value,w.weight_status from steqi.view_weight_value w where w.weight_bridge_id=7100301
+12/07/2016 16:35:35 <Open Dynaset Error> Oracle.DataAccess.Client.OracleException ORA-03114: not connected to ORACLE    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteReader(Boolean requery, Boolean fillRequest, CommandBehavior behavior)
+   at Oracle.DataAccess.Client.OracleDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   at PWeightBridge.COracle.OpenDys(String pStrSQL, String pTableName, DataSet& pDataSet, String& SQL_Execution_Error) in E:\งาน\G15-026_TAM\LLTLB\โปรแกรมเครื่องชั่ง\PWeightBridge\classs\COracle.vb:line 228
+12/07/2016 16:35:39 <ExeSQL Error> begin steqi.UPDATE_WB_VALUE(7100301,-1);end;
+12/07/2016 16:35:39 <ExeSQL Error> Oracle.DataAccess.Client.OracleException ORA-03114: not connected to ORACLE    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at PWeightBridge.COracle.ExeSQL(String pStrSQL, String& pSQL_Execution_Error) in E:\งาน\G15-026_TAM\LLTLB\โปรแกรมเครื่องชั่ง\PWeightBridge\classs\COracle.vb:line 288
+12/07/2016 16:36:25 <ExeSQL Error> begin steqi.UPDATE_WB_VALUE(7100301,-1);end;
+12/07/2016 16:36:25 <ExeSQL Error> Oracle.DataAccess.Client.OracleException ORA-03113: end-of-file on communication channel
+Process ID: 5932
+Session ID: 154 Serial number: 140    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at PWeightBridge.COracle.ExeSQL(String pStrSQL, String& pSQL_Execution_Error) in E:\งาน\G15-026_TAM\LLTLB\โปรแกรมเครื่องชั่ง\PWeightBridge\classs\COracle.vb:line 288
+12/07/2016 16:36:28 <Open Dynaset Error> select w.weight_value,w.weight_status from steqi.view_weight_value w where w.weight_bridge_id=7100301
+12/07/2016 16:36:29 <Open Dynaset Error> Oracle.DataAccess.Client.OracleException ORA-03114: not connected to ORACLE    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteReader(Boolean requery, Boolean fillRequest, CommandBehavior behavior)
+   at Oracle.DataAccess.Client.OracleDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   at PWeightBridge.COracle.OpenDys(String pStrSQL, String pTableName, DataSet& pDataSet, String& SQL_Execution_Error) in E:\งาน\G15-026_TAM\LLTLB\โปรแกรมเครื่องชั่ง\PWeightBridge\classs\COracle.vb:line 228
+12/07/2016 16:36:33 <ExeSQL Error> begin steqi.UPDATE_WB_VALUE(7100301,-1);end;
+12/07/2016 16:36:33 <ExeSQL Error> Oracle.DataAccess.Client.OracleException ORA-03114: not connected to ORACLE    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at PWeightBridge.COracle.ExeSQL(String pStrSQL, String& pSQL_Execution_Error) in E:\งาน\G15-026_TAM\LLTLB\โปรแกรมเครื่องชั่ง\PWeightBridge\classs\COracle.vb:line 288
+12/07/2016 16:37:29 <ExeSQL Error> begin steqi.UPDATE_WB_VALUE(7100301,-1);end;
+12/07/2016 16:37:30 <ExeSQL Error> Oracle.DataAccess.Client.OracleException ORA-03113: end-of-file on communication channel
+Process ID: 4284
+Session ID: 243 Serial number: 55    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at PWeightBridge.COracle.ExeSQL(String pStrSQL, String& pSQL_Execution_Error) in E:\งาน\G15-026_TAM\LLTLB\โปรแกรมเครื่องชั่ง\PWeightBridge\classs\COracle.vb:line 288
+12/07/2016 16:37:33 <Open Dynaset Error> select w.weight_value,w.weight_status from steqi.view_weight_value w where w.weight_bridge_id=7100301
+12/07/2016 16:37:33 <Open Dynaset Error> Oracle.DataAccess.Client.OracleException ORA-03114: not connected to ORACLE    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteReader(Boolean requery, Boolean fillRequest, CommandBehavior behavior)
+   at Oracle.DataAccess.Client.OracleDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   at PWeightBridge.COracle.OpenDys(String pStrSQL, String pTableName, DataSet& pDataSet, String& SQL_Execution_Error) in E:\งาน\G15-026_TAM\LLTLB\โปรแกรมเครื่องชั่ง\PWeightBridge\classs\COracle.vb:line 228
+12/07/2016 16:37:38 <ExeSQL Error> begin steqi.UPDATE_WB_VALUE(7100301,-1);end;
+12/07/2016 16:37:38 <ExeSQL Error> Oracle.DataAccess.Client.OracleException ORA-03114: not connected to ORACLE    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at PWeightBridge.COracle.ExeSQL(String pStrSQL, String& pSQL_Execution_Error) in E:\งาน\G15-026_TAM\LLTLB\โปรแกรมเครื่องชั่ง\PWeightBridge\classs\COracle.vb:line 288

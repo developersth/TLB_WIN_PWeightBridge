@@ -1,0 +1,176 @@
+D:\My Code\SAKC\PWeightBridge\bin\Release\CRWeightConfig.ini
+D:\My Code\SAKC\PWeightBridge\bin\Release\PWeightBridge.exe
+D:\My Code\SAKC\PWeightBridge\bin\Release\PWeightBridge.pdb
+D:\My Code\SAKC\PWeightBridge\bin\Release\PWeightBridge.xml
+D:\My Code\SAKC\PWeightBridge\bin\Release\7SegmentLib.dll
+D:\My Code\SAKC\PWeightBridge\bin\Release\CMercuryLib.dll
+D:\My Code\SAKC\PWeightBridge\bin\Release\IniLib.dll
+D:\My Code\SAKC\PWeightBridge\obj\x86\Release\ResolveAssemblyReference.cache
+D:\My Code\SAKC\PWeightBridge\obj\x86\Release\PWeightBridge.vbproj.ResolveComReference.cache
+D:\My Code\SAKC\PWeightBridge\obj\x86\Release\PWeightBridge.FMain.resources
+D:\My Code\SAKC\PWeightBridge\obj\x86\Release\PWeightBridge.FDiag.resources
+D:\My Code\SAKC\PWeightBridge\obj\x86\Release\PWeightBridge.Resources.resources
+D:\My Code\SAKC\PWeightBridge\obj\x86\Release\PWeightBridge.ucSingle7Segment.resources
+D:\My Code\SAKC\PWeightBridge\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+D:\My Code\SAKC\PWeightBridge\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+D:\My Code\SAKC\PWeightBridge\obj\x86\Release\PWeightBridge.exe
+D:\My Code\SAKC\PWeightBridge\obj\x86\Release\PWeightBridge.xml
+D:\My Code\SAKC\PWeightBridge\obj\x86\Release\PWeightBridge.pdb
+D:\weight scale\PWeightBridge\bin\Release\CRWeightConfig.ini
+D:\weight scale\PWeightBridge\bin\Release\PWeightBridge.exe
+D:\weight scale\PWeightBridge\bin\Release\PWeightBridge.pdb
+D:\weight scale\PWeightBridge\bin\Release\PWeightBridge.xml
+D:\weight scale\PWeightBridge\bin\Release\7SegmentLib.dll
+D:\weight scale\PWeightBridge\bin\Release\CMercuryLib.dll
+D:\weight scale\PWeightBridge\bin\Release\IniLib.dll
+D:\weight scale\PWeightBridge\obj\x86\Release\ResolveAssemblyReference.cache
+D:\weight scale\PWeightBridge\obj\x86\Release\PWeightBridge.vbproj.ResolveComReference.cache
+D:\weight scale\PWeightBridge\obj\x86\Release\PWeightBridge.FMain.resources
+D:\weight scale\PWeightBridge\obj\x86\Release\PWeightBridge.FDiag.resources
+D:\weight scale\PWeightBridge\obj\x86\Release\PWeightBridge.Resources.resources
+D:\weight scale\PWeightBridge\obj\x86\Release\PWeightBridge.ucSingle7Segment.resources
+D:\weight scale\PWeightBridge\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+D:\weight scale\PWeightBridge\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+D:\weight scale\PWeightBridge\obj\x86\Release\PWeightBridge.exe
+D:\weight scale\PWeightBridge\obj\x86\Release\PWeightBridge.xml
+D:\weight scale\PWeightBridge\obj\x86\Release\PWeightBridge.pdb
+C:\Users\win10\Desktop\งาน\G15-026_TAM\LLTLB\PWeightBridge\obj\x86\Release\PWeightBridge.vbproj.ResolveComReference.cache
+C:\Users\win10\Desktop\งาน\G15-026_TAM\LLTLB\PWeightBridge\obj\x86\Release\PWeightBridge.exe
+C:\Users\win10\Desktop\งาน\G15-026_TAM\LLTLB\PWeightBridge\obj\x86\Release\PWeightBridge.xml
+C:\Users\win10\Desktop\งาน\G15-026_TAM\LLTLB\PWeightBridge\obj\x86\Release\PWeightBridge.pdb
+C:\Users\win10\Desktop\งาน\G15-026_TAM\LLTLB\PWeightBridge\bin\Release\CRWeightConfig.ini
+C:\Users\win10\Desktop\งาน\G15-026_TAM\LLTLB\PWeightBridge\bin\Release\PWeightBridge.exe
+C:\Users\win10\Desktop\งาน\G15-026_TAM\LLTLB\PWeightBridge\bin\Release\PWeightBridge.pdb
+C:\Users\win10\Desktop\งาน\G15-026_TAM\LLTLB\PWeightBridge\bin\Release\PWeightBridge.xml
+C:\Users\win10\Desktop\งาน\G15-026_TAM\LLTLB\PWeightBridge\bin\Release\7SegmentLib.dll
+C:\Users\win10\Desktop\งาน\G15-026_TAM\LLTLB\PWeightBridge\bin\Release\CMercuryLib.dll
+C:\Users\win10\Desktop\งาน\G15-026_TAM\LLTLB\PWeightBridge\bin\Release\IniLib.dll
+C:\Users\win10\Desktop\งาน\G15-026_TAM\LLTLB\PWeightBridge\obj\x86\Release\PWeightBridge.vbprojResolveAssemblyReference.cache
+C:\Users\win10\Desktop\งาน\G15-026_TAM\LLTLB\PWeightBridge\obj\x86\Release\PWeightBridge.FMain.resources
+C:\Users\win10\Desktop\งาน\G15-026_TAM\LLTLB\PWeightBridge\obj\x86\Release\PWeightBridge.FDiag.resources
+C:\Users\win10\Desktop\งาน\G15-026_TAM\LLTLB\PWeightBridge\obj\x86\Release\PWeightBridge.Resources.resources
+C:\Users\win10\Desktop\งาน\G15-026_TAM\LLTLB\PWeightBridge\obj\x86\Release\PWeightBridge.ucSingle7Segment.resources
+C:\Users\win10\Desktop\งาน\G15-026_TAM\LLTLB\PWeightBridge\obj\x86\Release\PWeightBridge.vbproj.GenerateResource.Cache
+C:\Users\win10\Desktop\งาน\G15-026_TAM\LLTLB\โปรแกรมเครื่องชั่ง\PWeightBridge\obj\x86\Release\PWeightBridge.vbproj.ResolveComReference.cache
+C:\Users\win10\Desktop\งาน\G15-026_TAM\LLTLB\โปรแกรมเครื่องชั่ง\PWeightBridge\obj\x86\Release\PWeightBridge.exe
+C:\Users\win10\Desktop\งาน\G15-026_TAM\LLTLB\โปรแกรมเครื่องชั่ง\PWeightBridge\obj\x86\Release\PWeightBridge.xml
+C:\Users\win10\Desktop\งาน\G15-026_TAM\LLTLB\โปรแกรมเครื่องชั่ง\PWeightBridge\obj\x86\Release\PWeightBridge.pdb
+C:\Users\win10\Desktop\งาน\G15-026_TAM\LLTLB\โปรแกรมเครื่องชั่ง\PWeightBridge\bin\Release\CRWeightConfig.ini
+C:\Users\win10\Desktop\งาน\G15-026_TAM\LLTLB\โปรแกรมเครื่องชั่ง\PWeightBridge\bin\Release\PWeightBridge.exe
+C:\Users\win10\Desktop\งาน\G15-026_TAM\LLTLB\โปรแกรมเครื่องชั่ง\PWeightBridge\bin\Release\PWeightBridge.pdb
+C:\Users\win10\Desktop\งาน\G15-026_TAM\LLTLB\โปรแกรมเครื่องชั่ง\PWeightBridge\bin\Release\PWeightBridge.xml
+C:\Users\win10\Desktop\งาน\G15-026_TAM\LLTLB\โปรแกรมเครื่องชั่ง\PWeightBridge\bin\Release\7SegmentLib.dll
+C:\Users\win10\Desktop\งาน\G15-026_TAM\LLTLB\โปรแกรมเครื่องชั่ง\PWeightBridge\bin\Release\CMercuryLib.dll
+C:\Users\win10\Desktop\งาน\G15-026_TAM\LLTLB\โปรแกรมเครื่องชั่ง\PWeightBridge\bin\Release\IniLib.dll
+C:\Users\win10\Desktop\งาน\G15-026_TAM\LLTLB\โปรแกรมเครื่องชั่ง\PWeightBridge\obj\x86\Release\PWeightBridge.vbprojResolveAssemblyReference.cache
+C:\Users\win10\Desktop\งาน\G15-026_TAM\LLTLB\โปรแกรมเครื่องชั่ง\PWeightBridge\obj\x86\Release\PWeightBridge.FMain.resources
+C:\Users\win10\Desktop\งาน\G15-026_TAM\LLTLB\โปรแกรมเครื่องชั่ง\PWeightBridge\obj\x86\Release\PWeightBridge.FDiag.resources
+C:\Users\win10\Desktop\งาน\G15-026_TAM\LLTLB\โปรแกรมเครื่องชั่ง\PWeightBridge\obj\x86\Release\PWeightBridge.Resources.resources
+C:\Users\win10\Desktop\งาน\G15-026_TAM\LLTLB\โปรแกรมเครื่องชั่ง\PWeightBridge\obj\x86\Release\PWeightBridge.ucMulti7Segment.resources
+C:\Users\win10\Desktop\งาน\G15-026_TAM\LLTLB\โปรแกรมเครื่องชั่ง\PWeightBridge\obj\x86\Release\PWeightBridge.ucSingle7Segment.resources
+C:\Users\win10\Desktop\งาน\G15-026_TAM\LLTLB\โปรแกรมเครื่องชั่ง\PWeightBridge\obj\x86\Release\PWeightBridge.vbproj.GenerateResource.Cache
+C:\Users\win10\Desktop\งาน\G15-026_TAM\LLTLB\โปรแกรมเครื่องชั่ง\PWeightBridge\obj\x86\Release\PWeightBridge.ucClose.resources
+C:\Users\win10\Desktop\งาน\G15-026_TAM\LLTLB\โปรแกรมเครื่องชั่ง\PWeightBridge\obj\x86\Release\PWeightBridge.ucMinimize.resources
+E:\งาน\G15-026_TAM\LLTLB\โปรแกรมเครื่องชั่ง\PWeightBridge\obj\x86\Release\PWeightBridge.vbproj.ResolveComReference.cache
+E:\งาน\G15-026_TAM\LLTLB\โปรแกรมเครื่องชั่ง\PWeightBridge\obj\x86\Release\PWeightBridge.exe
+E:\งาน\G15-026_TAM\LLTLB\โปรแกรมเครื่องชั่ง\PWeightBridge\obj\x86\Release\PWeightBridge.xml
+E:\งาน\G15-026_TAM\LLTLB\โปรแกรมเครื่องชั่ง\PWeightBridge\obj\x86\Release\PWeightBridge.pdb
+E:\งาน\G15-026_TAM\LLTLB\โปรแกรมเครื่องชั่ง\PWeightBridge\bin\Release\CRWeightConfig.ini
+E:\งาน\G15-026_TAM\LLTLB\โปรแกรมเครื่องชั่ง\PWeightBridge\bin\Release\PWeightBridge.exe
+E:\งาน\G15-026_TAM\LLTLB\โปรแกรมเครื่องชั่ง\PWeightBridge\bin\Release\PWeightBridge.pdb
+E:\งาน\G15-026_TAM\LLTLB\โปรแกรมเครื่องชั่ง\PWeightBridge\bin\Release\PWeightBridge.xml
+E:\งาน\G15-026_TAM\LLTLB\โปรแกรมเครื่องชั่ง\PWeightBridge\bin\Release\7SegmentLib.dll
+E:\งาน\G15-026_TAM\LLTLB\โปรแกรมเครื่องชั่ง\PWeightBridge\bin\Release\CMercuryLib.dll
+E:\งาน\G15-026_TAM\LLTLB\โปรแกรมเครื่องชั่ง\PWeightBridge\bin\Release\IniLib.dll
+E:\งาน\G15-026_TAM\LLTLB\โปรแกรมเครื่องชั่ง\PWeightBridge\obj\x86\Release\PWeightBridge.vbprojResolveAssemblyReference.cache
+E:\งาน\G15-026_TAM\LLTLB\โปรแกรมเครื่องชั่ง\PWeightBridge\obj\x86\Release\PWeightBridge.FMain.resources
+E:\งาน\G15-026_TAM\LLTLB\โปรแกรมเครื่องชั่ง\PWeightBridge\obj\x86\Release\PWeightBridge.FDiag.resources
+E:\งาน\G15-026_TAM\LLTLB\โปรแกรมเครื่องชั่ง\PWeightBridge\obj\x86\Release\PWeightBridge.Resources.resources
+E:\งาน\G15-026_TAM\LLTLB\โปรแกรมเครื่องชั่ง\PWeightBridge\obj\x86\Release\PWeightBridge.ucClose.resources
+E:\งาน\G15-026_TAM\LLTLB\โปรแกรมเครื่องชั่ง\PWeightBridge\obj\x86\Release\PWeightBridge.ucMinimize.resources
+E:\งาน\G15-026_TAM\LLTLB\โปรแกรมเครื่องชั่ง\PWeightBridge\obj\x86\Release\PWeightBridge.ucMulti7Segment.resources
+E:\งาน\G15-026_TAM\LLTLB\โปรแกรมเครื่องชั่ง\PWeightBridge\obj\x86\Release\PWeightBridge.ucSingle7Segment.resources
+E:\งาน\G15-026_TAM\LLTLB\โปรแกรมเครื่องชั่ง\PWeightBridge\obj\x86\Release\PWeightBridge.vbproj.GenerateResource.Cache
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PWeightBridge\bin\Release\PWeightBridge.exe.config
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PWeightBridge\obj\x86\Release\PWeightBridge.vbproj.ResolveComReference.cache
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PWeightBridge\obj\x86\Release\PWeightBridge.exe
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PWeightBridge\obj\x86\Release\PWeightBridge.xml
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PWeightBridge\obj\x86\Release\PWeightBridge.pdb
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PWeightBridge\bin\Release\CRWeightConfig.ini
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PWeightBridge\bin\Release\PWeightBridge.exe
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PWeightBridge\bin\Release\PWeightBridge.pdb
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PWeightBridge\bin\Release\PWeightBridge.xml
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PWeightBridge\bin\Release\7SegmentLib.dll
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PWeightBridge\bin\Release\CMercuryLib.dll
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PWeightBridge\bin\Release\IniLib.dll
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PWeightBridge\bin\Release\MercuryCardReader.dll
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PWeightBridge\bin\Release\MercuryCardReader.pdb
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PWeightBridge\obj\x86\Release\PWeightBridge.vbprojResolveAssemblyReference.cache
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PWeightBridge\obj\x86\Release\PWeightBridge.FMain.resources
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PWeightBridge\obj\x86\Release\PWeightBridge.FDiag.resources
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PWeightBridge\obj\x86\Release\PWeightBridge.Resources.resources
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PWeightBridge\obj\x86\Release\PWeightBridge.ucClose.resources
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PWeightBridge\obj\x86\Release\PWeightBridge.ucMinimize.resources
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PWeightBridge\obj\x86\Release\PWeightBridge.ucMulti7Segment.resources
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PWeightBridge\obj\x86\Release\PWeightBridge.ucSingle7Segment.resources
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PWeightBridge\obj\x86\Release\PWeightBridge.vbproj.GenerateResource.Cache
+D:\My Code\TLB Upgrading\PWeight\PWeightBridge_29-10-2016\bin\Release\PWeightBridge.exe.config
+D:\My Code\TLB Upgrading\PWeight\PWeightBridge_29-10-2016\obj\x86\Release\PWeightBridge.vbproj.ResolveComReference.cache
+D:\My Code\TLB Upgrading\PWeight\PWeightBridge_29-10-2016\obj\x86\Release\PWeightBridge.exe
+D:\My Code\TLB Upgrading\PWeight\PWeightBridge_29-10-2016\obj\x86\Release\PWeightBridge.xml
+D:\My Code\TLB Upgrading\PWeight\PWeightBridge_29-10-2016\obj\x86\Release\PWeightBridge.pdb
+D:\My Code\TLB Upgrading\PWeight\PWeightBridge_29-10-2016\bin\Release\CRWeightConfig.ini
+D:\My Code\TLB Upgrading\PWeight\PWeightBridge_29-10-2016\bin\Release\PWeightBridge.exe
+D:\My Code\TLB Upgrading\PWeight\PWeightBridge_29-10-2016\bin\Release\PWeightBridge.pdb
+D:\My Code\TLB Upgrading\PWeight\PWeightBridge_29-10-2016\bin\Release\PWeightBridge.xml
+D:\My Code\TLB Upgrading\PWeight\PWeightBridge_29-10-2016\bin\Release\7SegmentLib.dll
+D:\My Code\TLB Upgrading\PWeight\PWeightBridge_29-10-2016\bin\Release\CMercuryLib.dll
+D:\My Code\TLB Upgrading\PWeight\PWeightBridge_29-10-2016\bin\Release\IniLib.dll
+D:\My Code\TLB Upgrading\PWeight\PWeightBridge_29-10-2016\bin\Release\MercuryCardReader.dll
+D:\My Code\TLB Upgrading\PWeight\PWeightBridge_29-10-2016\bin\Release\MercuryCardReader.pdb
+D:\My Code\TLB Upgrading\PWeight\PWeightBridge_29-10-2016\obj\x86\Release\PWeightBridge.vbprojResolveAssemblyReference.cache
+D:\My Code\TLB Upgrading\PWeight\PWeightBridge_29-10-2016\obj\x86\Release\PWeightBridge.FMain.resources
+D:\My Code\TLB Upgrading\PWeight\PWeightBridge_29-10-2016\obj\x86\Release\PWeightBridge.FDiag.resources
+D:\My Code\TLB Upgrading\PWeight\PWeightBridge_29-10-2016\obj\x86\Release\PWeightBridge.Resources.resources
+D:\My Code\TLB Upgrading\PWeight\PWeightBridge_29-10-2016\obj\x86\Release\PWeightBridge.ucClose.resources
+D:\My Code\TLB Upgrading\PWeight\PWeightBridge_29-10-2016\obj\x86\Release\PWeightBridge.ucMinimize.resources
+D:\My Code\TLB Upgrading\PWeight\PWeightBridge_29-10-2016\obj\x86\Release\PWeightBridge.ucMulti7Segment.resources
+D:\My Code\TLB Upgrading\PWeight\PWeightBridge_29-10-2016\obj\x86\Release\PWeightBridge.ucSingle7Segment.resources
+D:\My Code\TLB Upgrading\PWeight\PWeightBridge_29-10-2016\obj\x86\Release\PWeightBridge.vbproj.GenerateResource.Cache
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PWeightBridge_2010\bin\Release\CRWeightConfig.ini
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PWeightBridge_2010\bin\Release\PWeightBridge.exe.config
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PWeightBridge_2010\bin\Release\PWeightBridge.exe
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PWeightBridge_2010\bin\Release\PWeightBridge.pdb
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PWeightBridge_2010\bin\Release\PWeightBridge.xml
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PWeightBridge_2010\bin\Release\7SegmentLib.dll
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PWeightBridge_2010\bin\Release\CMercuryLib.dll
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PWeightBridge_2010\bin\Release\IniLib.dll
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PWeightBridge_2010\bin\Release\MercuryCardReader.dll
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PWeightBridge_2010\bin\Release\MercuryCardReader.pdb
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PWeightBridge_2010\obj\x86\Release\PWeightBridge.vbprojResolveAssemblyReference.cache
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PWeightBridge_2010\obj\x86\Release\PWeightBridge.vbproj.ResolveComReference.cache
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PWeightBridge_2010\obj\x86\Release\PWeightBridge.FMain.resources
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PWeightBridge_2010\obj\x86\Release\PWeightBridge.FDiag.resources
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PWeightBridge_2010\obj\x86\Release\PWeightBridge.Resources.resources
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PWeightBridge_2010\obj\x86\Release\PWeightBridge.ucClose.resources
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PWeightBridge_2010\obj\x86\Release\PWeightBridge.ucMinimize.resources
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PWeightBridge_2010\obj\x86\Release\PWeightBridge.ucMulti7Segment.resources
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PWeightBridge_2010\obj\x86\Release\PWeightBridge.ucSingle7Segment.resources
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PWeightBridge_2010\obj\x86\Release\PWeightBridge.vbproj.GenerateResource.Cache
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PWeightBridge_2010\obj\x86\Release\PWeightBridge.exe
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PWeightBridge_2010\obj\x86\Release\PWeightBridge.xml
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PWeightBridge_2010\obj\x86\Release\PWeightBridge.pdb
+D:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PWeightBridge_2010\bin\Release\PWeightBridge.exe.config
+D:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PWeightBridge_2010\obj\x86\Release\PWeightBridge.vbproj.ResolveComReference.cache
+D:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PWeightBridge_2010\obj\x86\Release\PWeightBridge.exe
+D:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PWeightBridge_2010\obj\x86\Release\PWeightBridge.xml
+D:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PWeightBridge_2010\obj\x86\Release\PWeightBridge.pdb
+D:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PWeightBridge_2010\obj\x86\Release\PWeightBridge.vbprojResolveAssemblyReference.cache
+D:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PWeightBridge_2010\obj\x86\Release\PWeightBridge.FMain.resources
+D:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PWeightBridge_2010\obj\x86\Release\PWeightBridge.FDiag.resources
+D:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PWeightBridge_2010\obj\x86\Release\PWeightBridge.Resources.resources
+D:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PWeightBridge_2010\obj\x86\Release\PWeightBridge.ucClose.resources
+D:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PWeightBridge_2010\obj\x86\Release\PWeightBridge.ucMinimize.resources
+D:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PWeightBridge_2010\obj\x86\Release\PWeightBridge.ucMulti7Segment.resources
+D:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PWeightBridge_2010\obj\x86\Release\PWeightBridge.ucSingle7Segment.resources
+D:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PWeightBridge_2010\obj\x86\Release\PWeightBridge.vbproj.GenerateResource.Cache

@@ -1,0 +1,53 @@
+<WB-01><17/10/2016 14:07:09>>Initial Weight Bridge[7100301]WB-01 successful.
+<WB-01><17/10/2016 14:07:09>>Weight Bridge enable=False
+<WB-01><17/10/2016 14:07:09>>Open comport[COM6]
+<WB-01><17/10/2016 14:07:09>>Open comport[COM6 : 2400,E,7,1] successfull.
+<WB-01><17/10/2016 14:11:27>>Initial Weight Bridge[7100301]WB-01 successful.
+<WB-01><17/10/2016 14:11:27>>Weight Bridge enable=False
+<WB-01><17/10/2016 14:11:27>>Open comport[COM6]
+<WB-01><17/10/2016 14:11:27>>Open comport[COM6 : 2400,E,7,1] successfull.
+<WB-01><17/10/2016 14:12:15>>Initial Weight Bridge[7100301]WB-01 successful.
+<WB-01><17/10/2016 14:12:15>>Weight Bridge enable=False
+<WB-01><17/10/2016 14:12:15>>Open comport[COM6]
+<WB-01><17/10/2016 14:12:16>>Open comport[COM6 : 2400,E,7,1] successfull.
+<WB-01><17/10/2016 14:13:12>>Initial Weight Bridge[7100301]WB-01 successful.
+<WB-01><17/10/2016 14:13:12>>Weight Bridge enable=False
+<WB-01><17/10/2016 14:13:12>>Open comport[COM6]
+<WB-01><17/10/2016 14:13:12>>Open comport[COM6 : 2400,E,7,1] successfull.
+<WB-01><17/10/2016 14:14:15>>Initial Weight Bridge[7100301]WB-01 successful.
+<WB-01><17/10/2016 14:14:15>>Weight Bridge enable=False
+<WB-01><17/10/2016 14:14:15>>Open comport[COM6]
+<WB-01><17/10/2016 14:14:15>>Open comport[COM6 : 2400,E,7,1] successfull.
+<WB-01><17/10/2016 14:16:17>>Initial Weight Bridge[7100301]WB-01 successful.
+<WB-01><17/10/2016 14:16:17>>Weight Bridge enable=False
+<WB-01><17/10/2016 14:16:17>>Open comport[COM6]
+<WB-01><17/10/2016 14:16:17>>Open comport[COM6 : 2400,E,7,1] successfull.
+<WB-01><17/10/2016 14:18:24>>Initial Weight Bridge[7100301]WB-01 successful.
+<WB-01><17/10/2016 14:18:24>>Weight Bridge enable=False
+<WB-01><17/10/2016 14:18:24>>Open comport[COM6]
+<WB-01><17/10/2016 14:18:24>>Open comport[COM6 : 2400,E,7,1] successfull.
+<WB-01><17/10/2016 14:25:11>>Initial Weight Bridge[7100301]WB-01 successful.
+<WB-01><17/10/2016 14:25:11>>Weight Bridge enable=False
+<WB-01><17/10/2016 14:25:12>>Open comport[COM6]
+<WB-01><17/10/2016 14:25:12>>Open comport[COM6 : 2400,E,7,1] successfull.
+<WB-01><17/10/2016 14:28:18>>Initial Weight Bridge[7100301]WB-01 successful.
+<WB-01><17/10/2016 14:28:18>>Weight Bridge enable=True
+<WB-01><17/10/2016 14:28:18>>Open comport[COM6]
+<WB-01><17/10/2016 14:28:18>>Open comport[COM6 : 2400,E,7,1] successfull.
+<WB-01><17/10/2016 14:29:42>>Initial Weight Bridge[7100301]WB-01 successful.
+<WB-01><17/10/2016 14:29:42>>Weight Bridge enable=True
+<WB-01><17/10/2016 14:29:42>>Open comport[COM6]
+<WB-01><17/10/2016 14:29:42>>Open comport[COM6 : 2400,E,7,1] successfull.
+<WB-01><17/10/2016 14:30:32>>Initial Weight Bridge[7100301]WB-01 successful.
+<WB-01><17/10/2016 14:30:32>>Weight Bridge enable=True
+<WB-01><17/10/2016 14:30:32>>Open comport[COM6]
+<WB-01><17/10/2016 14:30:32>>Open comport[COM6 : 2400,E,7,1] successfull.
+<WB-01><17/10/2016 14:31:46>>Initial Weight Bridge[7100301]WB-01 successful.
+<WB-01><17/10/2016 14:31:46>>Weight Bridge enable=True
+<WB-01><17/10/2016 14:31:47>>Open comport[COM6]
+<WB-01><17/10/2016 14:31:47>>Open comport[COM6 : 2400,E,7,1] successfull.
+<WB-01><17/10/2016 14:40:17>>Initial Weight Bridge[7100301]WB-01 successful.
+<WB-01><17/10/2016 14:40:17>>Weight Bridge enable=True
+<WB-01><17/10/2016 14:40:17>>Open comport[COM6]
+<WB-01><17/10/2016 14:40:17>>Open comport[COM6 : 2400,E,7,1] successfull.
+<WB-01><17/10/2016 14:42:29>><---------Stop process--------->

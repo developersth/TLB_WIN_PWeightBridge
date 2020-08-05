@@ -1,0 +1,17 @@
+<CR-301><11/07/2016 14:31:35>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><11/07/2016 14:31:36>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><11/07/2016 14:31:36>>Card Reader enable=False
+<CR-301><11/07/2016 14:31:36>>Open comport[COM22]
+<CR-301><11/07/2016 14:32:00>><---------Stop process--------->
+<CR-301><11/07/2016 14:34:54>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><11/07/2016 14:34:54>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><11/07/2016 14:34:54>>Card Reader enable=False
+<CR-301><11/07/2016 14:34:54>>Open comport[COM22]
+<CR-301><11/07/2016 14:46:58>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><11/07/2016 14:46:58>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><11/07/2016 14:46:58>>Card Reader enable=False
+<CR-301><11/07/2016 14:46:58>>Open comport[COM22]
+<CR-301><11/07/2016 14:49:04>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><11/07/2016 14:49:04>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><11/07/2016 14:49:04>>Card Reader enable=False
+<CR-301><11/07/2016 14:49:04>>Open comport[COM22]

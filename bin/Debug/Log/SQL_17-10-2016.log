@@ -1,0 +1,24 @@
+17/10/2016 14:11:28 <ExeSQL Error> begin tas.P_UPDATE_CARDREADER_CONNECT(1100301,1);end;
+17/10/2016 14:11:28 <ExeSQL Error> Oracle.DataAccess.Client.OracleException ORA-06550: line 1, column 7:
+PLS-00201: identifier 'TAS.P_UPDATE_CARDREADER_CONNECT' must be declared
+ORA-06550: line 1, column 7:
+PL/SQL: Statement ignored    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at PWeightBridge.COracle.ExeSQL(String pStrSQL, String& pSQL_Execution_Error) in E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PWeightBridge\classs\COracle.vb:line 287
+17/10/2016 14:12:16 <ExeSQL Error> begin tas.P_UPDATE_CARDREADER_CONNECT(1100301,1);end;
+17/10/2016 14:12:16 <ExeSQL Error> Oracle.DataAccess.Client.OracleException ORA-06550: line 1, column 7:
+PLS-00201: identifier 'TAS.P_UPDATE_CARDREADER_CONNECT' must be declared
+ORA-06550: line 1, column 7:
+PL/SQL: Statement ignored    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at PWeightBridge.COracle.ExeSQL(String pStrSQL, String& pSQL_Execution_Error) in E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PWeightBridge\classs\COracle.vb:line 287
+17/10/2016 14:13:18 <ExeSQL Error> begin tas.P_UPDATE_CARDREADER_CONNECT(1100301,1);end;
+17/10/2016 14:13:18 <ExeSQL Error> Oracle.DataAccess.Client.OracleException ORA-06550: line 1, column 7:
+PLS-00201: identifier 'TAS.P_UPDATE_CARDREADER_CONNECT' must be declared
+ORA-06550: line 1, column 7:
+PL/SQL: Statement ignored    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at PWeightBridge.COracle.ExeSQL(String pStrSQL, String& pSQL_Execution_Error) in E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PWeightBridge\classs\COracle.vb:line 287

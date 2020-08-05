@@ -1,0 +1,34 @@
+31/07/2015 15:03:12 <ExeSQL Error> begin steqi.UPDATE_WB_VALUE(7100301,0);end;
+31/07/2015 15:03:12 <ExeSQL Error> Oracle.DataAccess.Client.OracleException ORA-03113: สิ้นสุดไฟล์ในแชนเนลการติดต่อ
+ID กระบวนการ: 3828
+ID เซสชัน: 8 เลขลำดับ: 20956    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at PWeightBridge.COracle.ExeSQL(String pStrSQL, String& pSQL_Execution_Error) in D:\My Code\SAKC\PWeightBridge\classs\COracle.vb:line 262
+31/07/2015 15:03:37 <ExeSQL Error> begin tas.UPDATE_CARDREADER_CONNECT(13101,0);end;
+31/07/2015 15:03:37 <ExeSQL Error> Oracle.DataAccess.Client.OracleException ORA-03114: ยังไม่เชื่อมต่อกับ ORACLE    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at PWeightBridge.COracle.ExeSQL(String pStrSQL, String& pSQL_Execution_Error) in D:\My Code\SAKC\PWeightBridge\classs\COracle.vb:line 262
+31/07/2015 15:04:05 <ExeSQL Error> begin tas.UPDATE_CARDREADER_CONNECT(13101,0);end;
+31/07/2015 15:04:05 <ExeSQL Error> Oracle.DataAccess.Client.OracleException ORA-03114: ยังไม่เชื่อมต่อกับ ORACLE    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at PWeightBridge.COracle.ExeSQL(String pStrSQL, String& pSQL_Execution_Error) in D:\My Code\SAKC\PWeightBridge\classs\COracle.vb:line 262
+31/07/2015 15:05:47 <ExeSQL Error> begin steqi.UPDATE_WB_VALUE(7100301,0);end;
+31/07/2015 15:05:47 <ExeSQL Error> Oracle.DataAccess.Client.OracleException ORA-03113: สิ้นสุดไฟล์ในแชนเนลการติดต่อ
+ID กระบวนการ: 4968
+ID เซสชัน: 67 เลขลำดับ: 673    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at PWeightBridge.COracle.ExeSQL(String pStrSQL, String& pSQL_Execution_Error) in D:\My Code\SAKC\PWeightBridge\classs\COracle.vb:line 262
+31/07/2015 15:06:11 <ExeSQL Error> begin tas.UPDATE_CARDREADER_CONNECT(13101,0);end;
+31/07/2015 15:06:11 <ExeSQL Error> Oracle.DataAccess.Client.OracleException ORA-03114: ยังไม่เชื่อมต่อกับ ORACLE    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at PWeightBridge.COracle.ExeSQL(String pStrSQL, String& pSQL_Execution_Error) in D:\My Code\SAKC\PWeightBridge\classs\COracle.vb:line 262
+31/07/2015 23:53:41 <ExeSQL Error> begin tas.UPDATE_CARDREADER_CONNECT(13101,0);end;
+31/07/2015 23:53:41 <ExeSQL Error> Oracle.DataAccess.Client.OracleException ORA-03114: ยังไม่เชื่อมต่อกับ ORACLE    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at PWeightBridge.COracle.ExeSQL(String pStrSQL, String& pSQL_Execution_Error) in D:\My Code\SAKC\PWeightBridge\classs\COracle.vb:line 262

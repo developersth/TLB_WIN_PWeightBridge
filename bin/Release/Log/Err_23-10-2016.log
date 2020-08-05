@@ -1,0 +1,16 @@
+23/10/2016 17:43:01 [Open Dynaset Error] select t.config_data,t.update_date from tas.tas_config t where t.config_id=90
+23/10/2016 17:43:01 [Open Dynaset Error] select t.config_data,t.update_date from tas.tas_config t where t.config_id=90
+23/10/2016 17:43:02 [Open Dynaset Error] System.Data.OleDb.OleDbException (0x80040E14): ORA-03113: end-of-file on communication channel
+Process ID: 4392
+Session ID: 173 Serial number: 57813
+ORA-03113: end-of-file on communication channel
+Process ID: 4392
+Session ID: 173 Serial number: 57813
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForMultpleResults(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.OleDb.OleDbCommand.ExecuteReader()
+   at PWeightBridge.ScanDatabase.OpenDys(String pStrSQL, OleDbDataReader& pDataReader, String& pSQL_Execution_Error) in E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PWeightBridge\classs\COracle.vb:line 669

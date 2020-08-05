@@ -1,0 +1,252 @@
+<CR-301><14/10/2016 11:56:58>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 11:56:58>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 11:56:58>>Card Reader enable=False
+<CR-301><14/10/2016 11:56:58>>Open comport[COM22]
+<CR-301><14/10/2016 12:21:17>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 12:21:17>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 12:21:17>>Card Reader enable=False
+<CR-301><14/10/2016 12:21:17>>Open comport[COM22]
+<CR-301><14/10/2016 12:21:17>>Open comport[COM22 : 9600,N,8,1] successfull.
+<CR-301><14/10/2016 12:21:17>>CR-301connect = True
+<CR-301><14/10/2016 12:22:11>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 12:22:11>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 12:22:11>>Card Reader enable=False
+<CR-301><14/10/2016 12:22:11>>Open comport[COM22]
+<CR-301><14/10/2016 12:22:11>>Open comport[COM22 : 9600,N,8,1] successfull.
+<CR-301><14/10/2016 12:22:11>>CR-301connect = True
+<CR-301><14/10/2016 13:09:21>>Touch Card code = -1547689484
+<CR-301><14/10/2016 13:13:22>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 13:13:22>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 13:13:22>>Card Reader enable=False
+<CR-301><14/10/2016 13:13:22>>Open comport[COM22]
+<CR-301><14/10/2016 13:13:22>>Open comport[COM22 : 9600,N,8,1] successfull.
+<CR-301><14/10/2016 13:13:22>>CR-301connect = True
+<CR-301><14/10/2016 13:20:15>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 13:20:15>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 13:20:15>>Card Reader enable=False
+<CR-301><14/10/2016 13:20:15>>Open comport[COM22]
+<CR-301><14/10/2016 13:20:15>>Open comport[COM22 : 9600,N,8,1] successfull.
+<CR-301><14/10/2016 13:20:15>>CR-301connect = True
+<CR-301><14/10/2016 13:21:16>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 13:21:16>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 13:21:16>>Card Reader enable=False
+<CR-301><14/10/2016 13:21:16>>Open comport[COM22]
+<CR-301><14/10/2016 13:21:16>>Open comport[COM22 : 9600,N,8,1] successfull.
+<CR-301><14/10/2016 13:21:17>>CR-301connect = True
+<CR-301><14/10/2016 13:22:46>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 13:22:46>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 13:22:46>>Card Reader enable=False
+<CR-301><14/10/2016 13:22:46>>Open comport[COM22]
+<CR-301><14/10/2016 13:22:46>>Open comport[COM22 : 9600,N,8,1] successfull.
+<CR-301><14/10/2016 13:22:46>>CR-301connect = True
+<CR-301><14/10/2016 13:23:53>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 13:23:53>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 13:23:53>>Card Reader enable=False
+<CR-301><14/10/2016 13:23:53>>Open comport[COM22]
+<CR-301><14/10/2016 13:23:53>>Open comport[COM22 : 9600,N,8,1] successfull.
+<CR-301><14/10/2016 13:23:54>>CR-301connect = True
+<CR-301><14/10/2016 13:23:59>>Touch Card code = 8692
+<CR-301><14/10/2016 13:24:22>>Touch Card code = 12964
+<CR-301><14/10/2016 13:24:52>>Touch Card code = 12964
+<CR-301><14/10/2016 13:24:55>>Touch Card code = 8692
+<CR-301><14/10/2016 13:41:53>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 13:41:53>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 13:41:53>>Card Reader enable=False
+<CR-301><14/10/2016 13:41:53>>Open comport[COM22]
+<CR-301><14/10/2016 13:41:53>>Open comport[COM22 : 9600,N,8,1] successfull.
+<CR-301><14/10/2016 13:41:54>>CR-301connect = True
+<CR-301><14/10/2016 14:03:31>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 14:03:31>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 14:03:31>>Card Reader enable=False
+<CR-301><14/10/2016 14:03:31>>Open comport[COM22]
+<CR-301><14/10/2016 14:03:31>>Open comport[COM22 : 9600,N,8,1] successfull.
+<CR-301><14/10/2016 14:03:31>>CR-301connect = True
+<CR-301><14/10/2016 14:10:13>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 14:10:13>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 14:10:13>>Card Reader enable=False
+<CR-301><14/10/2016 14:10:13>>Open comport[COM22]
+<CR-301><14/10/2016 14:10:13>>Open comport[COM22 : 9600,N,8,1] successfull.
+<CR-301><14/10/2016 14:10:14>>CR-301connect = True
+<CR-301><14/10/2016 14:10:34>>Touch Card code = 8692
+<CR-301><14/10/2016 14:47:30>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 14:47:30>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 14:47:30>>Card Reader enable=False
+<CR-301><14/10/2016 14:47:30>>Open comport[COM22]
+<CR-301><14/10/2016 14:47:30>>Open comport[COM22 : 9600,N,8,1] successfull.
+<CR-301><14/10/2016 14:47:30>>CR-301connect = True
+<CR-301><14/10/2016 14:48:59>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 14:48:59>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 14:48:59>>Card Reader enable=False
+<CR-301><14/10/2016 14:48:59>>Open comport[COM22]
+<CR-301><14/10/2016 14:48:59>>Open comport[COM22 : 9600,N,8,1] successfull.
+<CR-301><14/10/2016 14:48:59>>CR-301connect = True
+<CR-301><14/10/2016 14:54:19>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 14:54:19>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 14:54:19>>Card Reader enable=False
+<CR-301><14/10/2016 14:54:19>>Open comport[COM22]
+<CR-301><14/10/2016 14:54:19>>Open comport[COM22 : 9600,N,8,1] successfull.
+<CR-301><14/10/2016 14:54:19>>CR-301connect = True
+<CR-301><14/10/2016 14:57:24>>Touch Card code = 12964
+<CR-301><14/10/2016 14:57:41>>Touch Card code = 8692
+<CR-301><14/10/2016 14:57:49>>Touch Card code = 8692
+<CR-301><14/10/2016 14:57:49>>[ชั่งเข้า] บัตร [8692][99-9999/] : (510176074)[6166Kg]ไม่มีกระบวนการชั่งน้ำหนัก
+<CR-301><14/10/2016 14:57:49>>บัตร[8692]ไม่มีกระบวนการชั่งน้ำหนัก
+<CR-301><14/10/2016 14:57:58>>Touch Card code = 8692
+<CR-301><14/10/2016 14:57:58>>[ชั่งเข้า] บัตร [8692][99-9999/] : (510176074)[6166Kg]ไม่มีกระบวนการชั่งน้ำหนัก
+<CR-301><14/10/2016 14:57:58>>บัตร[8692]ไม่มีกระบวนการชั่งน้ำหนัก
+<CR-301><14/10/2016 14:58:09>>Touch Card code = 12964
+<CR-301><14/10/2016 14:58:30>>Touch Card code = 12964
+<CR-301><14/10/2016 14:58:40>>Touch Card code = 12964
+<CR-301><14/10/2016 14:58:49>>Touch Card code = 8692
+<CR-301><14/10/2016 14:58:49>>[ชั่งเข้า] บัตร [8692][99-9999/] : (510176074)[6166Kg]ไม่มีกระบวนการชั่งน้ำหนัก
+<CR-301><14/10/2016 14:58:49>>บัตร[8692]ไม่มีกระบวนการชั่งน้ำหนัก
+<CR-301><14/10/2016 15:08:57>><---------Stop process--------->
+<CR-301><14/10/2016 15:16:39>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 15:16:39>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 15:16:39>>Card Reader enable=False
+<CR-301><14/10/2016 15:16:40>>Open comport[COM22]
+<CR-301><14/10/2016 15:18:00>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 15:18:00>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 15:18:00>>Card Reader enable=False
+<CR-301><14/10/2016 15:18:00>>Open comport[COM22]
+<CR-301><14/10/2016 15:18:49>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 15:18:49>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 15:18:49>>Card Reader enable=False
+<CR-301><14/10/2016 15:18:49>>Open comport[COM22]
+<CR-301><14/10/2016 15:18:49>>Open comport[COM22 : 9600,N,8,1] successfull.
+<CR-301><14/10/2016 15:18:49>>CR-301connect = True
+<CR-301><14/10/2016 15:18:58>>Touch Card code = 8692
+<CR-301><14/10/2016 15:18:58>>[ชั่งเข้า] บัตร [8692][99-9999/] : (510176074)[6000Kg]ไม่มีกระบวนการชั่งน้ำหนัก
+<CR-301><14/10/2016 15:18:58>>บัตร[8692]ไม่มีกระบวนการชั่งน้ำหนัก
+<CR-301><14/10/2016 15:20:13>>Touch Card code = 12964
+<CR-301><14/10/2016 15:20:13>>[ชั่งเข้า] ทะเบียนรถ [59-9999/] ของบัตร [12964] น้ำหนักชั่งเข้า=6000 KG [510176075]
+<CR-301><14/10/2016 15:20:13>>น้ำหนักชั่งเข้า=6000 KG [
+<CR-301><14/10/2016 15:20:13>>เริ่มการชั่ง...
+<CR-301><14/10/2016 15:20:13>>Weight in.
+<CR-301><14/10/2016 15:20:21>>จบการชั่ง...
+<CR-301><14/10/2016 15:20:25>>Touch Card code = 12964
+<CR-301><14/10/2016 15:20:25>>[ชั่งเข้า] ไม่ได้อยู่ในกระบวนการชั่งน้ำหนักของบัตร [12964][59-9999/] : (31 - รูดบัตรที่ชั่งเข้า)[6000Kg]
+<CR-301><14/10/2016 15:20:25>>ไม่ได้อยู่ในกระบวนการชั่งน้ำหนักของบัตร [12964]
+<CR-301><14/10/2016 15:23:02>>Touch Card code = 12964
+<CR-301><14/10/2016 15:23:02>>[ชั่งเข้า] ไม่ได้อยู่ในกระบวนการชั่งน้ำหนักของบัตร [12964][59-9999/] : (31 - รูดบัตรที่ชั่งเข้า)[6000Kg]
+<CR-301><14/10/2016 15:23:02>>ไม่ได้อยู่ในกระบวนการชั่งน้ำหนักของบัตร
+<CR-301><14/10/2016 15:23:18>>Touch Card code = 12964
+<CR-301><14/10/2016 15:23:18>>[ชั่งเข้า] ไม่ได้อยู่ในกระบวนการชั่งน้ำหนักของบัตร [12964][59-9999/] : (31 - รูดบัตรที่ชั่งเข้า)[6000Kg]
+<CR-301><14/10/2016 15:23:18>>ไม่ได้อยู่ในกระบวนการชั่งน้ำหนักของบัตร
+<CR-301><14/10/2016 15:23:41>>Touch Card code = 12964
+<CR-301><14/10/2016 15:23:41>>[ชั่งเข้า] ไม่ได้อยู่ในกระบวนการชั่งน้ำหนักของบัตร [12964][59-9999/] : (31 - รูดบัตรที่ชั่งเข้า)[6000Kg]
+<CR-301><14/10/2016 15:23:41>>ไม่ได้อยู่ในกระบวนการชั่งน้ำหนักของบัตร
+<CR-301><14/10/2016 15:25:02>>Touch Card code = 12964
+<CR-301><14/10/2016 15:26:57>>Touch Card code = 12964
+<CR-301><14/10/2016 15:26:57>>[ชั่งเข้า] ทะเบียนรถ [59-9999/] ของบัตร [12964] น้ำหนักชั่งเข้า=6000 KG [510176076]
+<CR-301><14/10/2016 15:26:57>>น้ำหนักชั่งเข้า=6000 KG [
+<CR-301><14/10/2016 15:26:57>>เริ่มการชั่ง...
+<CR-301><14/10/2016 15:26:57>>Weight in.
+<CR-301><14/10/2016 15:27:05>>จบการชั่ง...
+<CR-301><14/10/2016 15:28:28>>Touch Card code = 12964
+<CR-301><14/10/2016 15:28:28>>[ชั่งเข้า] ทะเบียนรถ [59-9999/] ของบัตร [12964] น้ำหนักชั่งเข้า=6000 KG [510176077]
+<CR-301><14/10/2016 15:28:28>>น้ำหนักชั่งเข้า=6000 KG
+<CR-301><14/10/2016 15:28:28>>เริ่มการชั่ง...
+<CR-301><14/10/2016 15:28:28>>Weight in.
+<CR-301><14/10/2016 15:28:36>>จบการชั่ง...
+<CR-301><14/10/2016 15:28:41>>Touch Card code = 12964
+<CR-301><14/10/2016 15:28:41>>[ชั่งเข้า] ไม่ได้อยู่ในกระบวนการชั่งน้ำหนักของบัตร [12964][59-9999/] : (31 - รูดบัตรที่ชั่งเข้า)[6000Kg]
+<CR-301><14/10/2016 15:28:41>>ไม่ได้อยู่ในกระบวนการชั่งน้ำหนักของบัตร
+<CR-301><14/10/2016 15:34:22>><---------Stop process--------->
+<CR-301><14/10/2016 16:46:12>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 16:46:12>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 16:46:12>>Card Reader enable=False
+<CR-301><14/10/2016 16:46:12>>Open comport[COM22]
+<CR-301><14/10/2016 16:47:04>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 16:47:04>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 16:47:04>>Card Reader enable=False
+<CR-301><14/10/2016 16:47:04>>Open comport[COM22]
+<CR-301><14/10/2016 16:47:04>>Open comport[COM22 : 9600,N,8,1] successfull.
+<CR-301><14/10/2016 16:47:05>>CR-301connect = False
+<CR-301><14/10/2016 16:47:35>>CR-301connect = False
+<CR-301><14/10/2016 16:56:54>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 16:56:55>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 16:56:55>>Card Reader enable=False
+<CR-301><14/10/2016 16:56:55>>Open comport[COM22]
+<CR-301><14/10/2016 16:56:55>>Open comport[COM22 : 9600,N,8,1] successfull.
+<CR-301><14/10/2016 16:56:55>>CR-301connect = False
+<CR-301><14/10/2016 16:57:25>>CR-301connect = False
+<CR-301><14/10/2016 16:58:41>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 16:58:41>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 16:59:42>>Card Reader enable=False
+<CR-301><14/10/2016 16:59:42>>Open comport[COM22]
+<CR-301><14/10/2016 16:59:42>>Open comport[COM22 : 9600,N,8,1] successfull.
+<CR-301><14/10/2016 17:00:04>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 17:00:04>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 17:00:08>>Card Reader enable=False
+<CR-301><14/10/2016 17:00:13>>Open comport[COM22]
+<CR-301><14/10/2016 17:00:23>>Open comport[COM22 : 9600,N,8,1] successfull.
+<CR-301><14/10/2016 17:01:07>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 17:01:08>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 17:01:08>>Open comport[COM22]
+<CR-301><14/10/2016 17:01:08>>Open comport[COM22 : 9600,N,8,1] successfull.
+<CR-301><14/10/2016 17:01:15>>CR-301connect = False
+<CR-301><14/10/2016 17:01:46>>CR-301connect = False
+<CR-301><14/10/2016 17:03:01>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 17:03:01>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 17:03:01>>Open comport[COM22]
+<CR-301><14/10/2016 17:03:01>>Open comport[COM22 : 9600,N,8,1] successfull.
+<CR-301><14/10/2016 17:03:02>>CR-301connect = True
+<CR-301><14/10/2016 17:03:38>>Touch Card code = 8692
+<CR-301><14/10/2016 17:03:38>>[ชั่งเข้า] บัตร [8692][99-9999/] : (510176078)[6000Kg]ไม่มีกระบวนการชั่งน้ำหนัก
+<CR-301><14/10/2016 17:03:38>>บัตร[8692]ไม่มีกระบวนการชั่งน้ำหนัก
+<CR-301><14/10/2016 17:03:57>>Touch Card code = 12964
+<CR-301><14/10/2016 17:03:57>>[ชั่งเข้า] ไม่ได้อยู่ในกระบวนการชั่งน้ำหนักของบัตร [12964][59-9999/] : (31 - รูดบัตรที่ชั่งเข้า)[6000Kg]
+<CR-301><14/10/2016 17:03:57>>ไม่ได้อยู่ในกระบวนการชั่งน้ำหนักของบัตร
+<CR-301><14/10/2016 17:04:22>>Touch Card code = 8692
+<CR-301><14/10/2016 17:04:22>>[ชั่งเข้า] บัตร [8692][99-9999/] : (510176078)[6000Kg]ไม่มีกระบวนการชั่งน้ำหนัก
+<CR-301><14/10/2016 17:04:22>>บัตร[8692]ไม่มีกระบวนการชั่งน้ำหนัก
+<CR-301><14/10/2016 17:07:48>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 17:09:55>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 17:14:57>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 17:18:31>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 17:18:31>>Open comport[COM22]
+<CR-301><14/10/2016 17:18:31>>Open comport[COM22 : 9600,N,8,1] successfull.
+<CR-301><14/10/2016 17:18:31>>CR-301connect = True
+<CR-301><14/10/2016 17:21:24>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 17:21:29>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 17:21:29>>Open comport[COM22]
+<CR-301><14/10/2016 17:21:29>>Open comport[COM22 : 9600,N,8,1] successfull.
+<CR-301><14/10/2016 17:21:29>>CR-301connect = True
+<CR-301><14/10/2016 17:23:54>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 17:23:54>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 17:23:54>>Open comport[COM22]
+<CR-301><14/10/2016 17:23:54>>Open comport[COM22 : 9600,N,8,1] successfull.
+<CR-301><14/10/2016 17:23:54>>CR-301connect = True
+<CR-301><14/10/2016 17:25:32>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 17:25:32>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 17:25:32>>Open comport[COM22]
+<CR-301><14/10/2016 17:25:32>>Open comport[COM22 : 9600,N,8,1] successfull.
+<CR-301><14/10/2016 17:25:32>>CR-301connect = True
+<CR-301><14/10/2016 17:34:26>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 17:34:26>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 17:34:26>>Open comport[COM22]
+<CR-301><14/10/2016 17:34:26>>Open comport[COM22 : 9600,N,8,1] successfull.
+<CR-301><14/10/2016 17:34:26>>CR-301connect = True
+<CR-301><14/10/2016 17:36:16>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 17:36:16>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 17:36:16>>Open comport[COM22]
+<CR-301><14/10/2016 17:36:16>>Open comport[COM22 : 9600,N,8,1] successfull.
+<CR-301><14/10/2016 17:36:16>>CR-301connect = True
+<CR-301><14/10/2016 17:38:58>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 17:38:58>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 17:38:58>>Open comport[COM22]
+<CR-301><14/10/2016 17:38:58>>Open comport[COM22 : 9600,N,8,1] successfull.
+<CR-301><14/10/2016 17:38:59>>CR-301connect = True
+<CR-301><14/10/2016 17:40:12>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 17:40:13>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 17:40:13>>Open comport[COM22]
+<CR-301><14/10/2016 17:40:13>>Open comport[COM22 : 9600,N,8,1] successfull.
+<CR-301><14/10/2016 17:40:13>>CR-301connect = True
+<CR-301><14/10/2016 18:08:51>><---------Stop process--------->
+<CR-301><14/10/2016 18:10:14>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 18:10:14>>Initial Card Reader[1100301]Address=1: COM22 9600,N,8,1 successful.
+<CR-301><14/10/2016 18:10:14>>Open comport[COM22]
+<CR-301><14/10/2016 18:10:14>>Open comport[COM22 : 9600,N,8,1] successfull.
+<CR-301><14/10/2016 18:10:14>>CR-301connect = True
+<CR-301><14/10/2016 18:11:04>><---------Stop process--------->

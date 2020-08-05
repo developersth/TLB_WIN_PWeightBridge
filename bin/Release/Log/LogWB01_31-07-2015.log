@@ -1,0 +1,10 @@
+<WB01><31/07/2015 15:01:40>>Initial Weight Bridge[7100301]WB01 successful.
+<WB01><31/07/2015 15:01:40>>Weight Bridge enable=True
+<WB01><31/07/2015 15:01:40>>Open comport[COM6]
+<WB01><31/07/2015 15:01:40>>Open comport[COM6 : 9600,E,7,1] successfull.
+<WB01><31/07/2015 15:04:08>><---------Stop process--------->
+<WB01><31/07/2015 15:04:14>>Initial Weight Bridge[7100301]WB01 successful.
+<WB01><31/07/2015 15:04:14>>Weight Bridge enable=True
+<WB01><31/07/2015 15:04:14>>Open comport[COM6]
+<WB01><31/07/2015 15:04:14>>Open comport[COM6 : 9600,E,7,1] successfull.
+<WB01><31/07/2015 23:53:51>><---------Stop process--------->

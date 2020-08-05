@@ -1,0 +1,23 @@
+<CR-301><01/11/2016 13:31:45>>Initial Card Reader[1100301]Address=1: COM25 9600,N,8,1 successful.
+<CR-301><01/11/2016 13:31:45>>Open comport[COM25]
+<CR-301><01/11/2016 13:43:18>>CR-301connect = True
+<CR-301><01/11/2016 13:45:02>>Touch Card code = 34
+<CR-301><01/11/2016 13:50:43>>Touch Card code = 21762
+<CR-301><01/11/2016 13:51:40>>Touch Card code = 34
+<CR-301><01/11/2016 13:55:17>>Touch Card code = 21762
+<CR-301><01/11/2016 13:55:33>><---------Stop process--------->
+<CR-301><01/11/2016 13:57:27>>Initial Card Reader[1100301]Address=1: COM25 9600,N,8,1 successful.
+<CR-301><01/11/2016 13:57:27>>Open comport[COM25]
+<CR-301><01/11/2016 14:08:18>>Initial Card Reader[1100301]Address=1: COM25 9600,N,8,1 successful.
+<CR-301><01/11/2016 14:08:18>>Open comport[COM25]
+<CR-301><01/11/2016 14:09:12>>CR-301connect = True
+<CR-301><01/11/2016 15:04:16>>Initial Card Reader[1100301]Address=1: COM25 9600,N,8,1 successful.
+<CR-301><01/11/2016 15:04:16>>Open comport[COM25]
+<CR-301><01/11/2016 15:05:05>>CR-301connect = True
+<CR-301><01/11/2016 15:18:24>>Touch Card code = 21762
+<CR-301><01/11/2016 15:32:50>>Initial Card Reader[1100301]Address=1: COM25 9600,N,8,1 successful.
+<CR-301><01/11/2016 15:32:51>>Open comport[COM25]
+<CR-301><01/11/2016 15:33:43>>CR-301connect = True
+<CR-301><01/11/2016 15:36:57>>Touch Card code = 21762
+<CR-301><01/11/2016 15:39:43>>Touch Card code = 34
+<CR-301><01/11/2016 15:53:07>><---------Stop process--------->

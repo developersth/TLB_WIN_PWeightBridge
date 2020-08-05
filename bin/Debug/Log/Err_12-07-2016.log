@@ -1,0 +1,135 @@
+12/07/2016 16:34:14 [Open Dynaset Error] select t.config_data,t.update_date from tas.tas_config t where t.config_id=90
+12/07/2016 16:34:14 [Open Dynaset Error] System.Data.OleDb.OleDbException: ORA-03113: end-of-file on communication channel
+Process ID: 5288
+Session ID: 157 Serial number: 452
+ORA-03113: end-of-file on communication channel
+Process ID: 5288
+Session ID: 157 Serial number: 452
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForMultpleResults(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.OleDb.OleDbCommand.ExecuteReader()
+   at PWeightBridge.ScanDatabase.OpenDys(String pStrSQL, OleDbDataReader& pDataReader, String& pSQL_Execution_Error) in E:\งาน\G15-026_TAM\LLTLB\โปรแกรมเครื่องชั่ง\PWeightBridge\classs\COracle.vb:line 670
+12/07/2016 16:34:14 [Open Dynaset Error] select t.config_data,t.update_date from tas.tas_config t where t.config_id=90
+12/07/2016 16:34:14 [Open Dynaset Error] System.Data.OleDb.OleDbException: ORA-03113: end-of-file on communication channel
+Process ID: 5712
+Session ID: 88 Serial number: 473
+ORA-03113: end-of-file on communication channel
+Process ID: 5712
+Session ID: 88 Serial number: 473
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForMultpleResults(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.OleDb.OleDbCommand.ExecuteReader()
+   at PWeightBridge.ScanDatabase.OpenDys(String pStrSQL, OleDbDataReader& pDataReader, String& pSQL_Execution_Error) in E:\งาน\G15-026_TAM\LLTLB\โปรแกรมเครื่องชั่ง\PWeightBridge\classs\COracle.vb:line 670
+12/07/2016 16:34:14 [Open Dynaset Error] select t.config_data,t.update_date from tas.tas_config t where t.config_id=90
+12/07/2016 16:34:14 [Open Dynaset Error] System.Data.OleDb.OleDbException: ORA-03113: end-of-file on communication channel
+Process ID: 5848
+Session ID: 26 Serial number: 347
+ORA-03113: end-of-file on communication channel
+Process ID: 5848
+Session ID: 26 Serial number: 347
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForMultpleResults(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.OleDb.OleDbCommand.ExecuteReader()
+   at PWeightBridge.ScanDatabase.OpenDys(String pStrSQL, OleDbDataReader& pDataReader, String& pSQL_Execution_Error) in E:\งาน\G15-026_TAM\LLTLB\โปรแกรมเครื่องชั่ง\PWeightBridge\classs\COracle.vb:line 670
+12/07/2016 16:35:29 [Open Dynaset Error] select t.config_data,t.update_date from tas.tas_config t where t.config_id=90
+12/07/2016 16:35:29 [Open Dynaset Error] System.Data.OleDb.OleDbException: ORA-03113: end-of-file on communication channel
+Process ID: 3608
+Session ID: 218 Serial number: 23
+ORA-03113: end-of-file on communication channel
+Process ID: 3608
+Session ID: 218 Serial number: 23
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForMultpleResults(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.OleDb.OleDbCommand.ExecuteReader()
+   at PWeightBridge.ScanDatabase.OpenDys(String pStrSQL, OleDbDataReader& pDataReader, String& pSQL_Execution_Error) in E:\งาน\G15-026_TAM\LLTLB\โปรแกรมเครื่องชั่ง\PWeightBridge\classs\COracle.vb:line 670
+12/07/2016 16:35:29 [Open Dynaset Error] select t.config_data,t.update_date from tas.tas_config t where t.config_id=90
+12/07/2016 16:35:29 [Open Dynaset Error] System.Data.OleDb.OleDbException: ORA-03113: end-of-file on communication channel
+Process ID: 5484
+Session ID: 196 Serial number: 25
+ORA-03113: end-of-file on communication channel
+Process ID: 5484
+Session ID: 196 Serial number: 25
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForMultpleResults(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.OleDb.OleDbCommand.ExecuteReader()
+   at PWeightBridge.ScanDatabase.OpenDys(String pStrSQL, OleDbDataReader& pDataReader, String& pSQL_Execution_Error) in E:\งาน\G15-026_TAM\LLTLB\โปรแกรมเครื่องชั่ง\PWeightBridge\classs\COracle.vb:line 670
+12/07/2016 16:36:25 [Open Dynaset Error] select t.config_data,t.update_date from tas.tas_config t where t.config_id=90
+12/07/2016 16:36:25 [Open Dynaset Error] System.Data.OleDb.OleDbException: ORA-03113: end-of-file on communication channel
+Process ID: 3400
+Session ID: 138 Serial number: 20538
+ORA-03113: end-of-file on communication channel
+Process ID: 3400
+Session ID: 138 Serial number: 20538
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForMultpleResults(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.OleDb.OleDbCommand.ExecuteReader()
+   at PWeightBridge.ScanDatabase.OpenDys(String pStrSQL, OleDbDataReader& pDataReader, String& pSQL_Execution_Error) in E:\งาน\G15-026_TAM\LLTLB\โปรแกรมเครื่องชั่ง\PWeightBridge\classs\COracle.vb:line 670
+12/07/2016 16:36:28 [Open Dynaset Error] select t.config_data,t.update_date from tas.tas_config t where t.config_id=90
+12/07/2016 16:36:28 [Open Dynaset Error] System.Data.OleDb.OleDbException: ORA-03113: end-of-file on communication channel
+Process ID: 7660
+Session ID: 74 Serial number: 5550
+ORA-03113: end-of-file on communication channel
+Process ID: 7660
+Session ID: 74 Serial number: 5550
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForMultpleResults(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.OleDb.OleDbCommand.ExecuteReader()
+   at PWeightBridge.ScanDatabase.OpenDys(String pStrSQL, OleDbDataReader& pDataReader, String& pSQL_Execution_Error) in E:\งาน\G15-026_TAM\LLTLB\โปรแกรมเครื่องชั่ง\PWeightBridge\classs\COracle.vb:line 670
+12/07/2016 16:37:29 [Open Dynaset Error] select t.config_data,t.update_date from tas.tas_config t where t.config_id=90
+12/07/2016 16:37:29 [Open Dynaset Error] System.Data.OleDb.OleDbException: ORA-03113: end-of-file on communication channel
+Process ID: 1756
+Session ID: 48 Serial number: 197
+ORA-03113: end-of-file on communication channel
+Process ID: 1756
+Session ID: 48 Serial number: 197
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForMultpleResults(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.OleDb.OleDbCommand.ExecuteReader()
+   at PWeightBridge.ScanDatabase.OpenDys(String pStrSQL, OleDbDataReader& pDataReader, String& pSQL_Execution_Error) in E:\งาน\G15-026_TAM\LLTLB\โปรแกรมเครื่องชั่ง\PWeightBridge\classs\COracle.vb:line 670
+12/07/2016 16:37:29 [Open Dynaset Error] select t.config_data,t.update_date from tas.tas_config t where t.config_id=90
+12/07/2016 16:37:29 [Open Dynaset Error] System.Data.OleDb.OleDbException: ORA-03113: end-of-file on communication channel
+Process ID: 6164
+Session ID: 69 Serial number: 12
+ORA-03113: end-of-file on communication channel
+Process ID: 6164
+Session ID: 69 Serial number: 12
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForMultpleResults(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.OleDb.OleDbCommand.ExecuteReader()
+   at PWeightBridge.ScanDatabase.OpenDys(String pStrSQL, OleDbDataReader& pDataReader, String& pSQL_Execution_Error) in E:\งาน\G15-026_TAM\LLTLB\โปรแกรมเครื่องชั่ง\PWeightBridge\classs\COracle.vb:line 670

@@ -1,0 +1,22 @@
+<CR-11008><14/12/2015 11:11:56>>Initial Card Reader[13101]Address=1: COM3 9600,N,8,1 successful.
+<CR-11008><14/12/2015 11:11:56>>Card Reader enable=True
+<CR-11008><14/12/2015 11:11:56>>Open comport[COM3]
+<CR-11008><14/12/2015 11:11:57>>Open comport[COM3 : 9600,N,8,1] successfull.
+<CR-11008><14/12/2015 11:11:57>>CR-11008connect = True
+<CR-11008><14/12/2015 11:21:53>>Initial Card Reader[13101]Address=1: COM3 9600,N,8,1 successful.
+<CR-11008><14/12/2015 11:21:53>>Card Reader enable=True
+<CR-11008><14/12/2015 11:21:53>>Open comport[COM3]
+<CR-11008><14/12/2015 11:21:53>>Open comport[COM3 : 9600,N,8,1] successfull.
+<CR-11008><14/12/2015 11:21:53>>CR-11008connect = True
+<CR-11008><14/12/2015 11:23:23>>Initial Card Reader[13101]Address=1: COM3 9600,N,8,1 successful.
+<CR-11008><14/12/2015 11:23:23>>Card Reader enable=True
+<CR-11008><14/12/2015 11:23:23>>Open comport[COM3]
+<CR-11008><14/12/2015 11:23:23>>Open comport[COM3 : 9600,N,8,1] successfull.
+<CR-11008><14/12/2015 11:23:24>>CR-11008connect = True
+<CR-11008><14/12/2015 11:44:38>>Touch Card code = 9870493
+<CR-11008><14/12/2015 11:44:38>>[ชั่งหนัก]หมายเลขบัตร [9870493] ตรวจสอบข้อมูลถูกต้อง Card Type= 1
+<CR-11008><14/12/2015 11:44:38>>Begin weight loading...
+<CR-11008><14/12/2015 11:44:38>>Weight out.
+<CR-11008><14/12/2015 11:45:06>>Touch Card code = 9870493
+<CR-11008><14/12/2015 11:45:10>>[ชั่งออก] หมายเลขบัตร [9870493] ของทะเบียนรถ [770412] มีน้ำหนักชั่งออก= 29890 Kg น้ำหนักสุทธิ=13600
+<CR-11008><14/12/2015 11:45:19>>End weight loading...
